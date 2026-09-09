@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
