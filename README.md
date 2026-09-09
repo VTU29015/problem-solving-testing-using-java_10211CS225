@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0179-largest-number) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
