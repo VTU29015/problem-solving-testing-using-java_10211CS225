@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1920-build-array-from-permutation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
