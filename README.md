@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
