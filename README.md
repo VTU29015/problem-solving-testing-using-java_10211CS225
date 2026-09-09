@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1470-shuffle-the-array) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1314-matrix-block-sum) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
