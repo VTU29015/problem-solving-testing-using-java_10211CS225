@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0179-largest-number) |
 | [0459-repeated-substring-pattern](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1360-number-of-days-between-two-dates) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/VTU29015/problem-solving-testing-using-java_10211CS225/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
